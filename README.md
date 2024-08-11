@@ -14,3 +14,4 @@ Feel free to post about the bike you are currently riding or amy bile you like.
 - Yamaha JOG
 - SUZUKI GSX
 - HONDA CB250R
+- HONDA CB250R
