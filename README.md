@@ -27,13 +27,14 @@ Mango, Strawberry, apple, avocado, banana, blackberry, blueberry, cherry, coconu
 2. Watermelon
 3. Apple
 4. Mango
-5. Ponkan orange 
-6. Pear
-7. Apple
+5. Ponkan orange
+6. Banana
+7. Pear
 8. Apple
-9. Grape
-10. Orange
-11. Avocado
-12. Peach
-13. banana
-14. Melon
+9. Apple
+10. Grape
+11. Orange
+12. Avocado
+13. Peach
+14. banana
+15. Melon
