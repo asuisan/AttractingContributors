@@ -35,3 +35,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. Kindle Paperwhite (e-book reader)
 10. HHKB Studio keyboard
 11. Wearable_Banana
+12. Key Chron K2
